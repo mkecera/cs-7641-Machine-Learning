@@ -9,13 +9,13 @@ from [GATech OMSCS](http://www.omscs.gatech.edu/)
 
 ### TOC
 
-- [0.0 Intro: ML is the ROX](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/0.0_intro_ml_is_rox.md)
-- [1.1 SL: Decision Trees](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/1.1_sl_1_-_decision_trees.md)
-- [1.2 SL: Regression and Classification](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/1.2_sl_2_-_regression_and_classification.md)
-- [1.3 SL: Neural Networks](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/1.3_sl_3_-_neural_networks.md)
-- [1.4 SL: Instance-Based Learning](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/1.4_sl_4_-_instance_base_learning.md)
-- [1.5 SL: Ensemble Learning: Bagging and Boosting](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/1.5_sl_5_-_ensemble_learning_boosting.md)
-- [1.6 SL: Kernel Methods and SVMs](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/nehalecky/CS7641-Machine-Learning/master/notes/1.6_sl_6_-_kernel_methods_and_svm.md)
+- [0.0 Intro: ML is the ROX](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/0.0_intro_ml_is_rox.md)
+- [1.1 SL: Decision Trees](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/1.1_sl_1_-_decision_trees.md)
+- [1.2 SL: Regression and Classification](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/1.2_sl_2_-_regression_and_classification.md)
+- [1.3 SL: Neural Networks](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/1.3_sl_3_-_neural_networks.md)
+- [1.4 SL: Instance-Based Learning](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/1.4_sl_4_-_instance_base_learning.md)
+- [1.5 SL: Ensemble Learning: Bagging and Boosting](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/1.5_sl_5_-_ensemble_learning_boosting.md)
+- [1.6 SL: Kernel Methods and SVMs](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/mkecera/CS7641-Machine-Learning/master/notes/1.6_sl_6_-_kernel_methods_and_svm.md)
 
 
 ## Assignments
